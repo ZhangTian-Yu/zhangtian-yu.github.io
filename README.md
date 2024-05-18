@@ -1,7 +1,30 @@
 # Tianyu Zhang
 
-I am an undergraduate from Shanghai Jiao Tong University,
-interested in theoretical computer science, with a current focus on zero-knowledge proofs.
+I am Tianyu Zhang, an undergraduate from Shanghai Jiao Tong University.
 
-[自由意志](https://zhangtian-yu.github.io/blogs/will_of_freedom.md)
-[自由意志](https://zhangtian-yu.github.io/blogs/will_of_freedom.pdf)
+I am interested in theoretical computer science, with my current focus on zero-knowledge proofs.
+
+I writes blogs and notes.
+blogs: [自由意志(Free Will)](https://zhangtian-yu.github.io/blogs/free_will.pdf)
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      background-image: url('./mountains.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      color: white; /* To make text readable on background */
+    }
+  </style>
+  <title>Markdown with Background Image</title>
+</head>
+<body>
+  <h1>Your Markdown Content Here</h1>
+  <p>This is an example paragraph to show how the background image looks.</p>
+</body>
+</html>
