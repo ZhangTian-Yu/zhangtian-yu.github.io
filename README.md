@@ -16,4 +16,3 @@ notes:
 [Network](https://zhangtian-yu.github.io/notes/network),
 [Machine Learning](https://zhangtian-yu.github.io/notes/machine_learning),
 [Model Checking](https://zhangtian-yu.github.io/notes/model_checking),
-[Model ](https://zhangtian-yu.github.io/notes/1),
