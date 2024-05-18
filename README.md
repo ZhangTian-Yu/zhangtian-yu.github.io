@@ -5,7 +5,12 @@ I am Tianyu Zhang, an undergraduate from Shanghai Jiao Tong University.
 I am interested in theoretical computer science, with my current focus on zero-knowledge proofs.
 
 I writes blogs and notes.
+
 blogs: [自由意志(Free Will)](https://zhangtian-yu.github.io/blogs/free_will.pdf)
+notes: [Network](https://zhangtian-yu.github.io/notess/network.md)
+
+<span style="font-family: Arial;">This is Arial font.</span>
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -16,15 +21,15 @@ blogs: [自由意志(Free Will)](https://zhangtian-yu.github.io/blogs/free_will.
     body {
       background-image: url('./mountains.jpg');
       background-size: cover;
-      background-repeat: no-repeat;
+      background-repeat: repeat;
       background-attachment: fixed;
       color: white; /* To make text readable on background */
     }
   </style>
-  <title>Markdown with Background Image</title>
+  <title>Tianyu Zhang</title>
 </head>
 <body>
-  <h1>Your Markdown Content Here</h1>
-  <p>This is an example paragraph to show how the background image looks.</p>
+  <h1>I am Tianyu Zhang, an undergraduate from Shanghai Jiao Tong University.</h1>
+  <p>I am interested in theoretical computer science, with my current focus on zero-knowledge proofs..</p>
 </body>
 </html>
