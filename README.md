@@ -9,5 +9,4 @@ Blogs offer my thinkings and notes offer my conceptualization of knowledges.
 
 blogs: [自由意志(Free Will)](https://zhangtian-yu.github.io/blogs/free_will.pdf)
 notes: [Network](https://zhangtian-yu.github.io/notes/network),
-[Machine Learning](https://zhangtian-yu.github.io/notes/machine_learning),
-1
+[Machine Learning](https://zhangtian-yu.github.io/notes/machine_learning)
