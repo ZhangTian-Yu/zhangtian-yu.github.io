@@ -13,6 +13,6 @@ blogs:
 [自由意志(Free Will)](/blogs/free_will.pdf)
 
 notes: 
-[Network](https://zhangtian-yu.github.io/notes/network),
-[Machine Learning](https://zhangtian-yu.github.io/notes/machine_learning),
-[Model Checking](https://zhangtian-yu.github.io/notes/model_checking),
+[Network](/notes/network),
+[Machine Learning](/notes/machine_learning),
+[Model Checking](/model_checking),
