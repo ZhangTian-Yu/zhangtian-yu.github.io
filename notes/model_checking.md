@@ -33,4 +33,4 @@ Dividing linear time property more finely leads to the safety property, which re
 
 The transition system is often nondeterministic, and thus uses fairness assumption to resolve the determinism and rule out unrealistic behavior.
 
-More concretely, safety properties can be characterized by finite words (finite bad prefixes) which can be encoded by finite automata while liveness proeperties can be characterized by infinite word (infinite bad sequences), which can be encoded by [infinite automa](/notes/model_checking/infinite_automa) i.e. $\omega$-automa.
+More concretely, safety properties can be characterized by finite words (finite bad prefixes) which can be encoded by finite automata while liveness proeperties can be characterized by infinite word (infinite bad sequences), which can be encoded by [infinite automa](/model_checking/infinite_automa) i.e. $\omega$-automa.
