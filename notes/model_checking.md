@@ -1,4 +1,12 @@
-Transition system models behavior of any system inherent of the concept of transition. It has various definitions but all surrounds the cocept of transition, including infiniteness (even uncountable) or finiteness, labelled state or unlabelled state, specifying initial and final state set or not. Transition is conceptually built of states and acts, and equavalent to directed graph. 
+# Model Checking
+
+Model checking models certain aspects of a system as a transition system and checks its certain properties on this transition model.
+
+A transition system has (finite, coutably infinte or uncountably infinite) states and actions from states to states.
+All states are abelled with atomic propositions (atomic since taken for granted), and some states are specified as initial states.
+
+Transition system models behavior of any system inherent of the concept of transition. It has various definitions but all surrounds the cocept of transition, including infiniteness (even uncountable) or finiteness, labelled state or unlabelled state, specifying initial and final state set or not. 
+Transition system is conceptually built of states and acts, equavalent to the directed graph. 
 
 The directed graph i.e. the definition of one transition system capture the static nature of the system i.e. its structure. With the concept of time endowing the system, its behaviour i.e. the set of all possible transition sequences captures its dynamic nature. The time concept implies nondeterminism, since a system with determined behaviour is inherently stateless and timeless and thus trivial. The system will take one of the transitions nondeterministicly from its present state.
 

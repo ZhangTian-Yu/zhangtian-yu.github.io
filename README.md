@@ -10,7 +10,7 @@ Blogs offer my thinkings and notes offer my conceptualization of knowledges.
 
 
 blogs: 
-[自由意志(Free Will)](https://zhangtian-yu.github.io/blogs/free_will.pdf)
+[自由意志(Free Will)](/blogs/free_will.pdf)
 
 notes: 
 [Network](https://zhangtian-yu.github.io/notes/network),
