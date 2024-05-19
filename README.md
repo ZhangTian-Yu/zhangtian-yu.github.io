@@ -15,4 +15,4 @@ blogs:
 notes: 
 [Network](/notes/network),
 [Machine Learning](/notes/machine_learning),
-[Model Checking](notes/model_checking),
+[Model Checking](/notes/model_checking),
