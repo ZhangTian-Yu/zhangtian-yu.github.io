@@ -27,10 +27,10 @@ One general formalism is linear time property, which specify the of traces the s
 
 $\textbf{Definition}$ A *linear time property* (LT property) over the set of atomic propositions $AP$ is a subset of $\Sigma^\omega$ where $\Sigma :=(2^{AP})$. 
 $\Sigma^\omega$ is the set of infinite sequences (formally, infinite words) $a_0a_1\dots a_n\dots$ s.t. $\forall n,a_n\in\Sigma$. 
-A transition system $\TS$ *satisfies* a linear-time property $P$, written as $TS\models P$, if $Traces(TS)\subseteq P$.
+A transition system TS *satisfies* a linear-time property $P$, written as $TS\models P$, if $Traces(TS)\subseteq P$.
 
 Dividing linear time property more finely leads to the safety property, which refute finite behaviour, and liveness property, which refute infinite behaviour. Any linear time property can be expressed as a conjunction of them.
 
 The transition system is often nondeterministic, and thus uses fairness assumption to resolve the determinism and rule out unrealistic behavior.
 
-More concretely, safety properties can be characterized by finite words (finite bad prefixes) which can be encoded by finite automata while liveness proeperties can be characterized by infinite word (infinite bad sequences), which can be encoded by [infinite automa](/model_checking/infinite_automa) i.e. $\omega$-automa.
+More concretely, safety properties can be characterized by finite words (finite bad prefixes) which can be encoded by finite automata while liveness proeperties can be characterized by infinite word (infinite bad sequences), which can be encoded by [infinite automa](/infinite_automa) i.e. $\omega$-automa.
