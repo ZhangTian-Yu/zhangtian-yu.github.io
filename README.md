@@ -16,4 +16,5 @@ notes:
 [Network](/notes/network),
 [Machine Learning](/notes/machine_learning),
 [Model Checking](/notes/model_checking),
-[1](/notes/model_checking/infinite_automa)
+[1](/notes/model_checking/infinite_automa.md)
+2
